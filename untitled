@@ -1,0 +1,18 @@
+import java.util.TreeSet;
+
+public class check{
+    // TreeSet<String> checker =  new TreeSet<String>();
+    // public static void main(String[] args) {
+    //     Scanner in = new Scanner(System.in); 
+    //     if (in.hasNextLine()) {
+    //         while (in.hasNextLine()) {
+    //             checker.add(in.nextLine());
+    //         }
+    //     } else {
+    //         throw new IllegalArgumentException("No words or alphabet are given.");
+    //     }
+    // }
+    String dh = "éclair's";
+}
+
+//141, girl hostel, vnit bajaj nagar
